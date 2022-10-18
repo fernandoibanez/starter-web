@@ -15,3 +15,8 @@ Sample website with plenty of files for demos
 Deployments details
 
 ## How To Contribute
+
+### Copyright
+
+2022. Bla Bla
+
