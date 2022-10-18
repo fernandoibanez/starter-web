@@ -16,6 +16,8 @@ Deployments details
 
 ## How To Contribute
 
+Some text here for contribution
+
 ### Copyright
 
 2022. Bla Bla
